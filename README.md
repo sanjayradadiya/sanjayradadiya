@@ -27,11 +27,11 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Angular, React, React Native, TypeScript, Nodejs, AWS, Firebase**.
 
-- 🌱 I’m currently learning **flutter.**
+- 🌱 I’m currently learning **Flutter.**
 
 - ☁️ I've a keen interest in mobile stacks and fronted techs.
 
-- 💬 Ask me about **Angular, React, React-native, Ionic, Nodejs**
+- 💬 Ask me about **Angular, React, React Native, Ionic, Nodejs**
 <!--Intro end-->
 
 
