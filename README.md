@@ -25,13 +25,13 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Angular, Angular, React, React Native, Nodejs, AWS, Firebase**.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **flutter.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've a keen interest in mobile stacks and fronted techs. So, I'm learning **React, Angular, React Native, Ionic**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **Angular, react, react-native, Ionic, nodejs**
 <!--Intro end-->
 
 
@@ -79,7 +79,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=angular,apollo,azure,babel,bash,d3,dart,electron,flutter,gitlab,graphql,jenkins,mysql,nestjs,nginx,sass,sqlite,sentry,sequelize,solidjs,threejs,vercel,vue,postgres,postman,reactivex,redis,git,aws,bootstrap,c,cpp,css,docker,dynamodb,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
