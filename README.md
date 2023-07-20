@@ -24,7 +24,6 @@
   </ul>
 </div>
 
-
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
@@ -85,6 +84,23 @@
 </p>
 
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My Achievements :trophy:</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" height="100" width="100" />
+    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/PNG/PullShark.png" height="100" width="100" />
+    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png" height="100" width="100" />
+  </a>
+</p>
+
+
+
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -104,7 +120,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=sanjayradadiya&icon=3&color=6)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=sanjayradadiya&label=Profile%20views&color=0047AB&style=plastic?" alt="view" height=25px, width=130px /> 
   
 </div>
 
