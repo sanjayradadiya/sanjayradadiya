@@ -24,13 +24,13 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Angular, React, React Native, TypeScript, Nodejs, AWS, and Firebase**.
+- 🔭 I’m working on **Angular, React, React Native, TypeScript, Node.js, AWS, Supabase, and Firebase**.
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning **Gen AI, LLM, Claude by Anthropic and MCP.**
 
-- ☁️ I've a keen interest in mobile stacks and fronted techs.
+- ☁️ I've a keen interest in mobile stacks and front-end techs.
 
-- 💬 Ask me about **Angular, React, React Native, Ionic, Nodejs**
+- 💬 Ask me about **Angular, React, React Native, Ionic, Node.js**
 <!--Intro end-->
 
 
@@ -78,7 +78,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,apollo,azure,babel,bash,d3,dart,electron,flutter,gitlab,graphql,jenkins,mysql,nestjs,nginx,sass,sqlite,sentry,sequelize,solidjs,threejs,vercel,vue,postgres,postman,reactivex,redis,git,aws,bootstrap,c,cpp,css,docker,dynamodb,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=angular,apollo,azure,babel,bash,d3,dart,electron,flutter,gitlab,graphql,jenkins,mysql,nestjs,nginx,sass,sqlite,sentry,sequelize,solidjs,threejs,vercel,vue,postgres,postman,reactivex,redis,git,aws,bootstrap,c,cpp,css,docker,dynamodb,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,supabase&perline=14" />
   </a>
 </p>
 
